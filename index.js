@@ -168,24 +168,6 @@ var playground = [
 // und danach Start- Zielfeld des Turms als string ein.
 // Ein Beispiel: königB.rochade("D8", "B8", "A8", "C8")
 
-bauerW.moves("H2", "H3"); 
-bauerB.moves("G7", "G6");
-pferdW.moves("G1","F3");
-bauerB.moves("H7", "H5");
-bauerW.moves("G2", "G4");
-bauerB.moves("H5", "G4")
-pferdW.moves("F3", "E5");
-pferdB.moves("G8", "F6");
-pferdW.moves("E5", "F7");
-läuferB.moves("F8","H6");
-bauerW.moves("E2", "E3");
-königB.rochade("E8", "G8", "H8", "F8");
-bauerW.moves("F2", "F3");
-bauerB.moves("G4", "F3");
-läuferW.moves("F1", "G2");
-bauerB.moves("F3", "F2");
-königW.moves("E1", "E2");
-bauerB.umwandlung("F2", "F1", turmB.figur);
 
 
 // Die Züge immer oberhalb dieses Feld eingeben und erst nach Spielende wieder entfernen
