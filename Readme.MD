@@ -35,7 +35,7 @@ Ist eine Stellung erreicht, in der keinem der beiden Spieler das Mattsetzen mehr
  Es ist nicht gestattet, eine Figur auf ein Feld zu ziehen, das bereits von einer Figur der gleichen Farbe besetzt ist. Wenn eine Figur auf ein Feld zieht, das von einer gegnerischen Figur besetzt ist, wird letztere geschlagen und als Teil desselben Zuges vom Schachbrett entfernt. 
  - **1.2 Läufer**
  Der **Läufer** darf auf ein beliebiges anderes Feld entlang einer der Diagonalen ziehen, auf welcher er steht. (darf nicht über dazwischenstehende Figuren hinwegziehen.)
- ![Alt text](../Schachbrett/img/Regel_laeufer.gif)
+ ![Alt text](https://github.com/exestiert/Schachbrett/blob/main/img/Regel_laeufer.gif)
  - **1.3 Turm**
  Der **Turm** darf auf ein beliebiges anderes Feld entlang der Linie oder der Reihe ziehen, auf welcher er steht. (darf nicht über dazwischenstehende Figuren hinwegziehen.)
  ![Alt text](../Schachbrett/img/Regel_turm.gif)
