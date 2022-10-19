@@ -1,4 +1,29 @@
- Das Schachspiel wird zwischen zwei Gegnern gespielt, die abwechselnd ihre Figuren auf einem quadratischen Spielbrett, "Schachbrett" genannt, ziehen. Der Spieler mit den weißen Figuren beginnt die Partie. Ein Spieler "ist am Zug", sobald der Zug seines Gegners ausgeführt worden ist.
+**Weiße Figuren**
+
+König = '\u2654'
+Dame = '\u2655'
+Turm = '\u2656'
+Läufer = '\u2657'
+Pferd = '\u2658'
+Bauer = '\u2659'
+
+**Schwarze Figuren**
+
+König = '\u265A'
+Dame = '\u265B'
+Turm = '\265C'
+Läufer = '\u265D'
+Pferd = '\u265E'
+Bauer = '\u265F'
+
+
+**Feld**
+
+- Horizontal: A, B, C, D, E, F, G, H
+- Vertikal: 1, 2, 3, 4, 5, 6, 7, 8
+- Anzahl der Felder: 64
+
+Das Schachspiel wird zwischen zwei Gegnern gespielt, die abwechselnd ihre Figuren auf einem quadratischen Spielbrett, "Schachbrett" genannt, ziehen. Der Spieler mit den weißen Figuren beginnt die Partie. Ein Spieler "ist am Zug", sobald der Zug seines Gegners ausgeführt worden ist.
 
 Das Ziel eines jeden Spielers ist es, den gegnerischen König so **"anzugreifen"**, dass der Gegner keinen regelgemäßen Zug zur Verfügung hat, der ein **"Schlagen"** des Königs im folgenden Zug vermeiden würde. Der Spieler, der dieses Ziel erreicht, hat den gegnerischen König **"mattgesetzt"** und das Spiel gewonnen. Es ist nicht erlaubt, den eigenen König einem Angriff auszusetzen oder den König des Gegners zu schlagen. Der Gegner, dessen König mattgesetzt worden ist, hat das Spiel verloren.
 
