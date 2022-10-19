@@ -36,12 +36,12 @@ Ist eine Stellung erreicht, in der keinem der beiden Spieler das Mattsetzen mehr
  - **1.2 Läufer**
  Der **Läufer** darf auf ein beliebiges anderes Feld entlang einer der Diagonalen ziehen, auf welcher er steht. (darf nicht über dazwischenstehende Figuren hinwegziehen.)
  
-  ![Alt text](https://github.com/exestiert/Schachbrett/blob/main/img/Regel_laeufer.gif)
+   ![Alt text](https://github.com/exestiert/Schachbrett/blob/main/img/Regel_laeufer.gif)
  
  - **1.3 Turm**
  Der **Turm** darf auf ein beliebiges anderes Feld entlang der Linie oder der Reihe ziehen, auf welcher er steht. (darf nicht über dazwischenstehende Figuren hinwegziehen.)
  
-  ![Alt text](https://github.com/exestiert/Schachbrett/blob/main/img/Regel_turm.gif)
+   ![Alt text](https://github.com/exestiert/Schachbrett/blob/main/img/Regel_turm.gif)
  
 - **1.4 Dame**
  Die **Dame** darf auf ein beliebiges anderes Feld entlang der Linie, der Reihe oder einer der Diagonalen ziehen, auf welcher sie steht. (darf nicht über dazwischenstehende Figuren hinwegziehen.)
