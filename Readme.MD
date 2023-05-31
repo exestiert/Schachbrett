@@ -1,4 +1,4 @@
-#Schachspiel Vanila JavaScript
+# Schachspiel mit Vanila JavaScript
 
 
 **Weiße Figuren**
